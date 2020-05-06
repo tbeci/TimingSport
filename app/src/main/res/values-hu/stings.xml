@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimingSport</string>
+    <string name="url">http://timingsport.reloc.hu/</string>
+
+    <string name="fejlec">TimingSport</string>
+    <string name="lablec">RELOC Informatika Kft.</string>
+
+    <string name="pid_text">Pid:</string>
+    <string name="bib_text">Bib:</string>
+    <string name="latitude_text">Latitude:</string>
+    <string name="longitude_text">Longitude:</string>
+    <string name="speed_text">Speed Km/h:</string>
+    <string name="altitude_text">Altitude /m:</string>
+    <string name="heading_text">Heading /degree:</string>
+    <string name="bojanev_text">Split:</string>
+    <string name="megtettut_text">Distance /km:</string>
+
+    <string name="bt_results">Eredmény</string>
+    <string name="bt_send">Küld</string>
+
+    <string name="bt_nevezes">Nevezés</string>
+
+
+    <string name="foo_regisztracio"><![CDATA[ <b><font color="#f15a22">1. lépés:</font></b> adja meg a nevezéshez szükséges adatokat! ]]></string>
+    <string name="foo_nevezes"><![CDATA[ <b><font color="#f15a22">2. lépés:</font></b> válasszon versenyt és távot végül utalja el a nevezési díjat! ]]></string>
+    <string name="foo_start"><![CDATA[ <b>3. lépés:</b><br> <b><font color="#006600">START</font></b> mostmár indulhat az időmérés!]]></string>
+    <string name="foo_resztav">Résztáv</string>
+    <string name="foo_eredmeny">Eredmény</string>
+    <string name="foo_frissites">Frissítés</string>
+
+
+    <string name="reg_vnev">Vezetéknév:</string>
+    <string name="reg_knev">Keresztnév:</string>
+    <string name="reg_yob">Születési év:</string>
+    <string name="bt_regisztracio">Regisztráció</string>
+
+    <string name="regn_nev">Név:</string>
+    <string name="regn_szuletesiev">Születési idő:</string>
+    <string name="regn_neme">Neme:</string>
+    <string name="regn_rsz">Rajtszám:</string>
+    <string name="regn_verseny">Verseny:</string>
+    <string name="regn_tav">Táv:</string>
+    <string name="regn_timer">Nyomkövetés:</string>
+
+    <string name="res_verseny">Race: </string>
+    <string name="res_helyzes">Rank: </string>
+    <string name="res_hely_kat">Helyezés kategóriánként: </string>
+    <string name="res_kat">Categories: </string>
+    <string name="res_ido">Time: </string>
+
+    <string name="res_bib">RSZ.</string>
+    <string name="res_ver">Verseny</string>
+    <string name="res_dat">Dátum</string>
+
+
+    <string name="adat_leiras"><![CDATA[
+        <h4>Fizetési feltételek</h4>
+        A program a <b>PayPal</b> fizetési metódust támogatja. A nevezésidíj átutalását követően a rendszer le generálja a rajtszámot
+        illetve létrehozza a nevezési file-okat. Ezek után a telefon időmérésre használható. Amennyiben nem szeretne PayPal-on
+        keresztül fizetni akkor a verseny rendezőivel vegye fel a kapcsolatot az <b>info@reloc.hu</b> email címen. ]]></string>
+    <string name="bt_fizetes">Fizetés</string>
+
+
+
+    <string name="fel_fejlec">Eredmények feltöltése</string>
+
+
+    <string name="resz_fejlec">Részidők</string>
+
+
+    <string name="msg_adatokletoltese">Adatok letöltése...</string>
+    <string name="msg_idomerohiba">Nem regisztált illetve nem nevezett versenyre!</string>
+    <string name="msg_adatfeltoltesbefejezodott">Adatfeltöltés befejeződött!</string>
+    <string name="msg_nincs_internet">Nincs Internet!</string>
+    <string name="msg_nincs_internet_leiras">A program működéséhez internetkapcsolat szükséges!</string>
+    <string name="msg_frissites">Frissíti az adatbázist?</string>
+    <string name="msg_frissites_leiras">
+        <![CDATA[ Az adatbázis frissítését követően a program <b><font color="#f15a22">az összes eredményt törli</font></b>.
+        <p>Verseny közben válassza a <b>MÉGSE</b> gombot!
+<p> Frissítéshez adja meg az <b>123</b> jelszót! ]]></string>
+    <string name="msg_mindenmezo">Kérem, minden mezőt töltsön ki!</string>
+
+
+
+
+
+</resources>

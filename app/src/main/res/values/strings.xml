@@ -1,0 +1,88 @@
+<resources>
+
+        <string name="app_name">TimingSport</string>
+        <string name="url">http://timingsport.reloc.hu/</string>
+
+        <string name="fejlec">TimingSport</string>
+        <string name="lablec">RELOC Informatika Kft.</string>
+
+        <string name="pid_text">Pid:</string>
+        <string name="bib_text">Bib:</string>
+        <string name="latitude_text">Latitude:</string>
+        <string name="longitude_text">Longitude:</string>
+        <string name="speed_text">Speed Km/h:</string>
+        <string name="altitude_text">Altitude /m:</string>
+        <string name="heading_text">Heading /degree:</string>
+        <string name="bojanev_text">Split:</string>
+        <string name="megtettut_text">Distance /km:</string>
+
+        <string name="bt_results">Results</string>
+        <string name="bt_send">Send</string>
+
+        <string name="bt_nevezes">Entry</string>
+
+
+        <string name="foo_regisztracio"><![CDATA[ <b><font color="#f15a22">1. lépés:</font></b> adja meg a nevezéshez szükséges adatokat! ]]></string>
+        <string name="foo_nevezes"><![CDATA[ <b><font color="#f15a22">2. lépés:</font></b> válasszon versenyt és távot végül utalja el a nevezési díjat! ]]></string>
+        <string name="foo_start"><![CDATA[ <b>3. lépés:</b><br> <b><font color="#006600">START</font></b> mostmár indulhat az időmérés!]]></string>
+        <string name="foo_resztav">Split</string>
+        <string name="foo_eredmeny">Results</string>
+        <string name="foo_frissites">Update</string>
+
+
+        <string name="reg_vnev">Firstname:</string>
+        <string name="reg_knev">Lastname:</string>
+        <string name="reg_yob">Year of Birth:</string>
+        <string name="bt_regisztracio">Registration</string>
+
+        <string name="regn_nev">Name:</string>
+        <string name="regn_szuletesiev">Year of birth:</string>
+        <string name="regn_neme">Gender:</string>
+        <string name="regn_rsz">Bib:</string>
+        <string name="regn_verseny">Race:</string>
+        <string name="regn_tav">Distance:</string>
+        <string name="regn_timer">Tracker time:</string>
+
+        <string name="res_verseny">Race: </string>
+        <string name="res_helyzes">Rank: </string>
+        <string name="res_hely_kat">Helyezés kategóriánként: </string>
+        <string name="res_kat">Categories: </string>
+        <string name="res_ido">Time: </string>
+
+        <string name="res_bib">Bib</string>
+        <string name="res_ver">Race</string>
+        <string name="res_dat">Date</string>
+
+
+        <string name="adat_leiras"><![CDATA[
+        <h4>Fizetési feltételek</h4>
+        A program a <b>PayPal</b> fizetési metódust támogatja. A nevezésidíj átutalását követően a rendszer le generálja a rajtszámot
+        illetve létrehozza a nevezési file-okat. Ezek után a telefon időmérésre használható. Amennyiben nem szeretne PayPal-on
+        keresztül fizetni akkor a verseny rendezőivel vegye fel a kapcsolatot az <b>info@reloc.hu</b> email címen. ]]></string>
+        <string name="bt_fizetes">Fizetés</string>
+
+
+
+        <string name="fel_fejlec">Eredmények feltöltése</string>
+
+
+        <string name="resz_fejlec">Results</string>
+
+
+        <string name="msg_adatokletoltese">Adatok letöltése...</string>
+        <string name="msg_idomerohiba">Nem regisztált illetve nem nevezett versenyre!</string>
+        <string name="msg_adatfeltoltesbefejezodott">Adatfeltöltés befejeződött!</string>
+        <string name="msg_nincs_internet">Nincs Internet!</string>
+        <string name="msg_nincs_internet_leiras">A program működéséhez internetkapcsolat szükséges!</string>
+        <string name="msg_frissites">Frissíti az adatbázist?</string>
+        <string name="msg_frissites_leiras">
+        <![CDATA[ Az adatbázis frissítését követően a program <b><font color="#f15a22">az összes eredményt törli</font></b>.
+        <p>Verseny közben válassza a <b>MÉGSE</b> gombot!
+<p> Frissítéshez adja meg az <b>123</b> jelszót! ]]></string>
+        <string name="msg_mindenmezo">Kérem, minden mezőt töltsön ki!</string>
+
+
+
+
+
+</resources>

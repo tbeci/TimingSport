@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<LinearLayout 
+	android:id="@+id/linearLayout10" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+
+	<TextView
+	android:id="@+id/ColMemberID" 
+		android:layout_width="0dp"
+		android:layout_height="wrap_content" 
+		android:layout_weight="0.5"
+		android:text="MemberID"/>
+
+	<TextView
+	    android:id="@+id/ColName"
+	    android:layout_width="100dp"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="0.5"
+	    android:text="Name" />
+
+	<TextView
+	    android:id="@+id/ColLat"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="Lat" />
+	
+	<TextView
+	    android:id="@+id/ColLon"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="Lon" />
+
+</LinearLayout>
+
+<LinearLayout 
+	android:id="@+id/linearLayout20" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+<TextView
+	android:id="@+id/ColIdo" 
+		android:layout_width="0dp"
+		android:layout_height="wrap_content" 
+		android:layout_weight="0.5"
+		android:layout_marginTop="20dp"
+		android:layout_marginLeft="35dp"
+		android:textColor="#04B404"
+		android:text="Ido"/>
+</LinearLayout>
+
+</RelativeLayout>
